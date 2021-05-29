@@ -37,6 +37,7 @@ html{
     display: flex;
     justify-content: center;
     align-items: center;
+
 }
 
 .logo img{
@@ -128,11 +129,12 @@ html{
     width: 80%;
     display: flex;
     justify-content: center;
+    
 }
 
 .secondHalf{
     width: 30%;
-    margin-top: 8rem;
+    margin-top: 5rem;
 
 }
 
@@ -148,6 +150,7 @@ html{
 
 .text-big{
     font-size: 35px;
+    margin-top: 19rem;
 }
 
 .text-small{
@@ -285,4 +288,9 @@ body{
 
 
 /* background: black; */
+}
+
+.text-sec{
+    font-size: 35px;
+    margin-top: 5rem;
 }

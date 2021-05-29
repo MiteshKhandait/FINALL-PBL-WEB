@@ -21,7 +21,7 @@
         display: block;
     }
     .h-nav-resp{
-        height: 60px;
+        height: 68px;
     }
     .v-class-resp{
         opacity: 0;
@@ -38,6 +38,8 @@
 
     .text-big{
         text-align: center;
+        font-size: 35px;
+        margin-top: 1rem;
     }
 
     .buttons{
@@ -68,6 +70,12 @@
         display: block;
         margin: auto;
         height: 87%;
+        
 
+    }
+
+    .firstSection {
+        height: 100vh;
+        margin-top: 10rem;
     }
 }
