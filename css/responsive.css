@@ -51,13 +51,13 @@
     }
 
     .navbar{
-        background: rgba(0, 0, 0, 0.7) url("../img/bg\ 2\ for\ resp.jpg");
+        background: rgba(0, 0, 0, 0.7) url("../img/paint\ nav\ img.jpg");
         background-size: cover;
         background-blend-mode: darken; 
     }
 
     body{
-        background: rgba(0, 0, 0, 0.7) url("../img/bg.jpg");
+        background: rgba(0, 0, 0, 0.7) url("../img/bg\ 2\ for\ resp.jpg");
         background-size: cover;
         background-blend-mode: darken; 
     }
