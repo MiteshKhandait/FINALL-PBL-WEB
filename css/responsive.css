@@ -51,13 +51,13 @@
     }
 
     .navbar{
-        background: rgba(0, 0, 0, 0.7) url("../img/sunyu-kim-qoKsbHSqU-w-unsplash.jpg");
+        background: black;
         background-size: cover;
         background-blend-mode: darken; 
     }
 
     body{
-        background: rgba(0, 0, 0, 0.7) url("../img/bg.jpg");
+        background: white;
         background-size: cover;
         background-blend-mode: darken; 
     }
