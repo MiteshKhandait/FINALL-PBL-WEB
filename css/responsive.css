@@ -57,7 +57,7 @@
     }
 
     body{
-        background: rgba(0, 0, 0, 0.7) url("../img/bg\ 2\ for\ resp.jpg");
+        background: rgba(0, 0, 0, 0.7) url("../img/bg.jpg");
         background-size: cover;
         background-blend-mode: darken; 
     }
