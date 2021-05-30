@@ -55,7 +55,7 @@ html{
     top: 0;
     cursor: pointer;
     /* background: rgba(0, 0, 0, 1); */
-    background: rgba(0, 0, 0, 0.7) url("../img/sunyu-kim-qoKsbHSqU-w-unsplash.jpg");
+    background: rgba(0, 0, 0, 0.7) ;
     background-size: cover;
     background-blend-mode: darken; 
 
